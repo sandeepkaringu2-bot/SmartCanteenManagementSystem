@@ -1,0 +1,6 @@
+target/
+*.class
+.idea/
+.vscode/
+src/main/resources/db.properties
+*.log
